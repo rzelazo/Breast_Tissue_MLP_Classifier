@@ -7,6 +7,7 @@ The dataset analysis as well as MLP network implementation has been done using P
 - [pandas 1.4.2](https://pypi.org/project/pandas/1.4.2/)
 - [scikit-learn 1.0.2](https://pypi.org/project/scikit-learn/1.0.2/)
 - [matplotlib 3.5.2](https://pypi.org/project/matplotlib/3.5.2/)
+- [seaborn 0.11.2](https://pypi.org/project/seaborn/0.11.2/)
 
 ## Dataset used in the project:
 #### [Breast Tissue Dataset](http://archive.ics.uci.edu/ml/datasets/Breast+Tissue)
